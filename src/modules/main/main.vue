@@ -2,6 +2,8 @@
   <div>
     <div>
       <app-header></app-header>
+      <h1>This is Main Module!!</h1>
+      <router-view></router-view>
     </div>
   </div>
 </template>
